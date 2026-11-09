@@ -1,7 +1,7 @@
 app = "diabetesbenjanightscout"
 kill_signal = "SIGINT"
 kill_timeout = "5s"
-primary_region = "mia"
+primary_region = "dfw"
 
 [experimental]
 auto_rollback = true
